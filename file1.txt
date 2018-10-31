@@ -1,0 +1,2 @@
+This is added to file1
+This is added to all file2.txt
